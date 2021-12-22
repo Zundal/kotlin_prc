@@ -12,3 +12,8 @@ fun helloWorld() : Unit {
 fun add(a : Int , b : Int) : Int {
     return a + b
 }
+
+fun test01(){
+    val a = 1 // 상수 값
+    var b = 1 // 변수 값
+}
